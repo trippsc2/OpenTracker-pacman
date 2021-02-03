@@ -1,0 +1,8 @@
+# Exclude everything but PKGBUILD
+alttpr-opentracker/*
+!alttpr-opentracker/PKGBUILD
+alttpr-opentracker-git/*
+!alttpr-opentracker-git/PKGBUILD
+
+# vscode
+.vscode/
